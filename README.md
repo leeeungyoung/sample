@@ -48,7 +48,7 @@ https://www.google.com
 
 
 ### 테이블 만들기
-|Header1|Header2|Header3|
+|Header1-왼쪽 정렬|Header2-가운데 정렬|Header3-오른쪽 정렬|
 |:---|:---:|---:|
 |content1|content2|content3|
 |content1|content2|content3|
