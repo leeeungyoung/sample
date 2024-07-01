@@ -51,4 +51,6 @@ https://www.google.com
 |content1|content2|
 
 
+<p style="text-align: center">가운데 정렬할게용.</p>
+
 
