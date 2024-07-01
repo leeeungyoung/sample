@@ -37,9 +37,18 @@ https://www.google.com
 
 ### 이미지 삽입하기
 #### 링크로 삽입
-:--:![풍경이미지](https://img.freepik.com/premium-photo/scenic-view-lake-against-blue-sky_1048944-17064539.jpg?w=740)
+![풍경이미지](https://img.freepik.com/premium-photo/scenic-view-lake-against-blue-sky_1048944-17064539.jpg?w=740)
 
 #### 깃에 올려 삽입
 ![landscape](./img/landscape.jpg)
+
+
+### 테이블 만들기
+|Header1|Header2|
+|:--:|:--|
+|content1|content2|
+|content1|content2|
+|content1|content2|
+
 
 
