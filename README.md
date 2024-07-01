@@ -45,6 +45,7 @@ https://www.google.com
 
 ### 테이블 만들기
 |Header1|Header2|
+|:--:|:--:|
 |content1|content2|
 |content1|content2|
 |content1|content2|
