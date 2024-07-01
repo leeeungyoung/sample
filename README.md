@@ -8,7 +8,12 @@
 ***굵게 기울임***
 ~~취소선~~
 
+
+### 수평선 넣기
+
+***
 ---
+___
 
 ### 인용문
 > 인용문
@@ -49,6 +54,8 @@ https://www.google.com
 |content1|content2|
 |content1|content2|
 |content1|content2|
+
+
 
 
 <p style="text-align: center">가운데 정렬할게용.</p>
