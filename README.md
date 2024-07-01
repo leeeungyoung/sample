@@ -32,5 +32,7 @@ https://www.google.com
 #### 링크로 삽입
 ![풍경이미지](https://img.freepik.com/premium-photo/scenic-view-lake-against-blue-sky_1048944-17064539.jpg?w=740)
 
+#### 깃에 올려 삽입
+![landscape](./img/landscape.jpg)
 
 
