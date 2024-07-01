@@ -44,6 +44,7 @@ if (num > 100 ) {
 https://www.google.com
 [구글로 연결](https://www.google.com)
 [구글]:https://www.google.com, 검색 사이트
+[구글][https://www.google.com]
 
 
 ### 이미지 삽입하기
