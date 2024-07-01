@@ -1,6 +1,5 @@
 # 샘플 파일 MD 만들기
 
----
 
 ## 글자 서식 적용하기
 **진하게**
@@ -9,11 +8,11 @@
 ~~취소선~~
 
 
-### 수평선 넣기
-
+### 수평선 넣기(셋 중 하나)
 ***
 ---
 ___
+
 
 ### 인용문
 > 인용문
@@ -33,12 +32,12 @@ ___
 ### 코드 넣기
 `function add(x, y) return x + y;`
 
+
 ### 하이퍼텍스트 넣기
 https://www.google.com
-
 [구글로 연결](https://www.google.com)
-
 [구글](https://www.google.com, 검색 사이트)
+
 
 ### 이미지 삽입하기
 #### 링크로 삽입
@@ -49,15 +48,17 @@ https://www.google.com
 
 
 ### 테이블 만들기
-|Header1|Header2|
-|:--:|:--:|
-|content1|content2|
-|content1|content2|
-|content1|content2|
+|Header1|Header2|Header3|
+|:---|:---:|---:|
+|content1|content2|content3|
+|content1|content2|content3|
+|content1|content2|content3|
 
 
+### 체크 박스 넣기
+*[x] 체크박스
+*[] 빈 체크박스
 
 
-<p style="text-align: center">가운데 정렬할게용.</p>
 
 
