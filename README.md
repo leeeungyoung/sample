@@ -43,7 +43,7 @@ if (num > 100 ) {
 ### 하이퍼텍스트 넣기
 https://www.google.com
 [구글로 연결](https://www.google.com)
-[구글](https://www.google.com, 검색 사이트)
+[구글]:https://www.google.com, 검색 사이트
 
 
 ### 이미지 삽입하기
